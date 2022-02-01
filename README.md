@@ -3,7 +3,7 @@
 This simple parser:
 - Accepts a list with car numbers to be checked through API https://baza-gai.com.ua/api
 - Sends a request to api and receives a json with a response for each of the numbers
-- Checks for empty values (if an error 404 is returned)
+- Checks for empty values (if the number is not found)
 - For each of the checked numbers, it returns a fully unpacked json (without values of type dictionary or list)
 - The results are recorded in excel file "checked_cars.xlsx" (<a href='checked_cars.xlsx'>Example</a>)
 
