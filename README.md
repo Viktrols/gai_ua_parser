@@ -5,7 +5,7 @@ This simple parser:
 - Sends a request to api and receives a json with a response for each of the numbers
 - Checks for empty values (if an error 404 is returned)
 - For each of the checked numbers, it returns a fully unpacked json (without values of type dictionary or list)
-- The results are recorded in excel file "checked_cars.xlsx" (<a href='checked_cars.txt'>Example</a>)
+- The results are recorded in excel file "checked_cars.xlsx" (<a href='checked_cars.xlsx'>Example</a>)
 
 Description of the task is <a href='task.txt'>here</a>
 
