@@ -5,7 +5,7 @@ from typing import List
 
 from json_unpacking import iterative_json_unpacking
 
-API_KEY = 'c9a8220ef3daeee290555beecb91c198'
+API_KEY = '68a6fc04bc025bfb0b5069a9d6544780'
 headers = {'Accept': 'application/json',
            'X-Api-Key': API_KEY}
 api_url = 'https://baza-gai.com.ua/nomer/'
