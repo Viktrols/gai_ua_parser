@@ -26,7 +26,8 @@ source ./venv/bin/activate      # Linux or macOS
 ```
 pip install -r requirements.txt
 ```
-
+### Get your api key by filling the form at https://baza-gai.com.ua/api and enter its value in a variable API KEY in code/check_cars_numbers.py <br> Better yet, place it in an environment variable.
+(I left my key for a quick code check)
 ### Run the file check_cars_numbers.py
 ```
 python code/check_cars_numbers.py
